@@ -28,6 +28,7 @@ conf = openerp.tools.config
 
 conf['addons_path'] = '../../addons/trunk,../../web/trunk/addons'
 
+
 # Optional database config if not using local socket
 #conf['db_name'] = 'mycompany'
 #conf['db_host'] = 'localhost'
